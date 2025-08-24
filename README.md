@@ -10,10 +10,10 @@ Aspiring to become a Full STack Developer with a strong foundation in Informatio
 
 ### Tech Tools
  ![VS code](https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000)
- * IDLE
- * Canva
- * Word
- * PowerPoint
+ ![](https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000)
+ ![](https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000)
+ ![](https://img.icons8.com/?size=100&id=pGHcje298xSl&format=png&color=000000)
+ ![](https://img.icons8.com/?size=100&id=aoS4Xr1gcqwp&format=png&color=000000)
  
  ### Programming Language
  *  Html

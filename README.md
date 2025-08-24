@@ -1,4 +1,4 @@
-
+![](blob:https://web.whatsapp.com/f0f3f8f7-5e23-4e62-b726-43f003b6769d)
 
 # Hi!👋 I'm BALADHARANI
 🚀 Full Stack Developer | Python | React.js
@@ -25,7 +25,6 @@ Aspiring to become a Full STack Developer with a strong foundation in Informatio
 
 ### Framework
 ![](https://img.icons8.com/?size=100&id=hCgWxZnDjiIJ&format=png&color=000000)
-![](https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000)
 
 ### Projects
 ##### Online Shopping Front Page

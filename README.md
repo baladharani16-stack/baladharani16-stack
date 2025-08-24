@@ -9,8 +9,7 @@ Aspiring to become a Full STack Developer with a strong foundation in Informatio
 ![](https://pskitservices.com/wp-content/uploads/2021/03/full-stack-php-developer.jpg)
 
 ### Tech Tools
- ![VS code](<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/36dbb284-d75d-428c-8201-ad3aecd3728f" />
-)
+ ![VS code](https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000)
  * IDLE
  * Canva
  * Word

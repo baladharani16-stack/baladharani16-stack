@@ -15,15 +15,16 @@ Aspiring to become a Full STack Developer with a strong foundation in Informatio
  ![](https://img.icons8.com/?size=100&id=pGHcje298xSl&format=png&color=000000)
  ![](https://img.icons8.com/?size=100&id=aoS4Xr1gcqwp&format=png&color=000000)
  
+ 
  ### Programming Language
- *  Html
- * css
- * JavaScript
- * c
- * Python
+![](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
+![](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
+![](https://img.icons8.com/?size=100&id=laVIsJnTtYoj&format=png&color=000000)
+![](https://img.icons8.com/?size=100&id=25423&format=png&color=000000)
+ ![](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
 
 ### Framework
- * React.js 
+![](https://img.icons8.com/?size=100&id=hCgWxZnDjiIJ&format=png&color=000000)
 
 ### Projects
 ##### Online Shopping Front Page

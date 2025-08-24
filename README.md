@@ -1,5 +1,3 @@
-![](blob:https://web.whatsapp.com/f0f3f8f7-5e23-4e62-b726-43f003b6769d)
-
 # Hi!👋 I'm BALADHARANI
 🚀 Full Stack Developer | Python | React.js
 

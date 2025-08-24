@@ -25,6 +25,7 @@ Aspiring to become a Full STack Developer with a strong foundation in Informatio
 
 ### Framework
 ![](https://img.icons8.com/?size=100&id=hCgWxZnDjiIJ&format=png&color=000000)
+![](https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000)
 
 ### Projects
 ##### Online Shopping Front Page
